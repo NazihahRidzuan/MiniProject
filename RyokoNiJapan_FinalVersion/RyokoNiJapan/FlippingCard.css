@@ -32,7 +32,7 @@
 /* The .back element should be rotated at first, facing his back, hidden*/
 .card .back{
  
-	transform: rotateY(180deg);
+	transform: rotateY(185deg);
 	-webkit-transform: rotateY(180deg);
 	background-image: url(picture/FCbg.gif);
 	text-align: center;
